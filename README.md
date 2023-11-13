@@ -6,4 +6,4 @@
 4. open python.org
 5. verify that site was opened
 
-tools to use for this test: python, behave, selenium
+tools  used for this test: python, behave, selenium
